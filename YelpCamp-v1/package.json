@@ -1,0 +1,23 @@
+{
+  "name": "yelpcamp-v1",
+  "version": "1.0.0",
+  "description": "Yelp like website for campgrounds/campsites",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iambalavineeth/YelpCamp.git"
+  },
+  "author": "Bala Vineeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iambalavineeth/YelpCamp/issues"
+  },
+  "homepage": "https://github.com/Iambalavineeth/YelpCamp#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
